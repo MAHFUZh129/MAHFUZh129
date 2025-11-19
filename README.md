@@ -9,12 +9,12 @@
 
 I am a passionate MERN Stack Developer with strong skills in building modern, dynamic, and user-friendly web applications. I specialize in using MongoDB, Express.js, React, and Node.js to create full-stack solutions that are fast, scalable, and efficient. I enjoy turning ideas into clean, functional, and visually appealing digital experiences.
 
-### 🔥 বর্তমানে যা নিয়ে কাজ করছি / এক্টিভিটি
+### 🔥Activities
 
-* Exploring **Next.js** for better SSR & SEO.
+* Exploring **Next.js** .
 * Working on a **delivery management website**.
 * Practicing **authentication & JWT security**.
-* Improving database structure using **MongoDB & Mongoose**.
+* Improving database structure using **MongoDB **.
 
 ---
 
@@ -29,9 +29,9 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://github.com/yourusername">GitHub</a><br>
+  <a href="https://github.com/MAHFUZh129">GitHub</a><br>
   <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a><br>
-  <a href="mailto:yourmail@example.com">Email</a>
+  <a href="mailto:mahfuzh266@gmail.com">Email</a>
 </p>
 
 ---
@@ -39,9 +39,9 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHFUZh129&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHFUZh129&layout=compact" height="150" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFUZh129" height="150" />
 </p>
