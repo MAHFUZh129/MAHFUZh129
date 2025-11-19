@@ -48,7 +48,9 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 
 <p align="left">
   <a href="https://github.com/MAHFUZh129/Krishi_Link_Client" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHFUZh129&repo=Krishi_Link_Client" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHFUZh129&repo=Krishi_Link_Client" />
+</a>
+
   </a>
 
   <a href="https://github.com/MAHFUZh129/SECOND_REPO_NAME" target="_blank">
