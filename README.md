@@ -52,3 +52,20 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFUZh129" height="150" />
 </p>
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="left">
+  <a href="https://github.com/yourusername/repository1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository1" />
+  </a>
+  <a href="https://github.com/yourusername/repository2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2" />
+  </a>
+  <a href="https://github.com/yourusername/repository3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository3" />
+  </a>
+</p>
+
