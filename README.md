@@ -14,7 +14,7 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 * Exploring **Next.js** .
 * Working on a **delivery management website**.
 * Practicing **authentication & JWT security**.
-* Improving database structure using **MongoDB **.
+* Improving database structure using **MongoDB**.
 
 ---
 
