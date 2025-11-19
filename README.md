@@ -1,10 +1,9 @@
-![I am harun181]
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | AI Automation Engineer | Web Designer | Content Creator</h3>
-# 🌐 **Mahfuz Hossain**
 
-### MERN Stack Developer
+<h1 align="center">Hi 👋, I'm Mahfuz Hossain</h1>
+<h3 align="center">MERN Stack Developer</h3>
+
+### 
 
 ![Banner Image](https://camo.githubusercontent.com/b3f59e9f91953c6ca140fe13a64ad2adbcf6981abaffb4221d925e2beed94c1e/68747470733a2f2f6c6976652e737461746963666c69636b722e636f6d2f36353533352f35313335303233393236375f353435363037363365365f622e6a7067)
 
