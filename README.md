@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Krishilink**
 
-- 🌱 I’m currently learning **Reacct,nestjs**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mahfuzh266@gmail.com**
 
