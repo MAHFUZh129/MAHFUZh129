@@ -4,7 +4,7 @@
 
 I am a passionate MERN Stack Developer with strong skills in building modern, dynamic, and user-friendly web applications. I specialize in using MongoDB, Express.js, React, and Node.js to create full-stack solutions that are fast, scalable, and efficient.
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=MAHFUZh129&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
