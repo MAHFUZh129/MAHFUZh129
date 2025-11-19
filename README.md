@@ -42,32 +42,12 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 </p>
 
 ---
----
-
-## 📌 Pinned Repositories
+## 📊 GitHub Stats GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/MAHFUZh129/Krishi_Link_Client" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHFUZh129&repo=Krishi_Link_Client" />
-</a>
-
-  </a>
-
-  <a href="https://github.com/MAHFUZh129/SECOND_REPO_NAME" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHFUZh129&repo=SECOND_REPO_NAME" />
-  </a>
-
-  <a href="https://github.com/MAHFUZh129/THIRD_REPO_NAME" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAHFUZh129&repo=THIRD_REPO_NAME" />
-  </a>
-</p>
-
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=MAHFUZh129&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHFUZh129&layout=compact" height="150" />
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFUZh129" height="150" />
 </p>
-
