@@ -21,7 +21,7 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github," />
 </p>
 
 ---
