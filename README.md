@@ -7,11 +7,11 @@
 
 ## 👋 About Me
 
-I am a passionate MERN Stack Developer with strong skills in building modern, dynamic, and user-friendly web applications. I specialize in using MongoDB, Express.js, React, and Node.js to create full-stack solutions that are fast, scalable, and efficient. I enjoy turning ideas into clean, functional, and visually appealing digital experiences.
+<h5>I am a passionate MERN Stack Developer with strong skills in building modern, dynamic, and user-friendly web applications. I specialize in using MongoDB, Express.js, React, and Node.js to create full-stack solutions that are fast, scalable, and efficient. I enjoy turning ideas into clean, functional, and visually appealing digital experiences.<h5/>
 
 ### 🔥Activities
 
-*  🔭  Exploring **Next.js** .
+* Exploring **Next.js** .
 * Working on a **delivery management website**.
 * Practicing **authentication & JWT security**.
 * Improving database structure using **MongoDB**.
