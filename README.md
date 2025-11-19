@@ -42,17 +42,6 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAHFUZh129&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHFUZh129&layout=compact" height="150" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFUZh129" height="150" />
-</p>
-
 ---
 
 ## 📌 Pinned Repositories
@@ -67,5 +56,80 @@ I am a passionate MERN Stack Developer with strong skills in building modern, dy
   <a href="https://github.com/yourusername/repository3" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository3" />
   </a>
+</p>
+
+---
+
+## 📦 Pinned Repository Details Template
+
+### 🔹 **Repository Name**
+
+**Description:**
+
+* প্রজেক্টের সংক্ষিপ্ত ওভারভিউ
+* লাইভ লিংক
+* ব্যবহৃত টেকনোলজি স্ট্যাক
+
+---
+
+### 📄 README Structure
+
+#### 📝 Overview
+
+সংক্ষেপে প্রজেক্টের একটি ওভারভিউ লিখুন।
+
+#### 🖼️ Screenshot
+
+একটি সুন্দর স্ক্রিনশট যোগ করুন:
+
+```
+![Project Screenshot](image link)
+```
+
+#### 🧰 Main Technology Stack
+
+* React / Next.js
+* Node.js / Express.js
+* MongoDB
+* JWT Authentication
+* Tailwind / Bootstrap
+
+#### ⭐ Main Features
+
+* Key feature 1
+* Key feature 2
+* Key feature 3
+
+#### 📦 Dependencies
+
+```
+npm install package1 package2 package3
+```
+
+#### ▶️ Run Locally
+
+```
+git clone repo-link
+cd project-folder
+npm install
+npm run dev / npm start
+```
+
+#### 🔗 Live & Other Links
+
+* Live Site
+* Client Repo
+* Server Repo
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAHFUZh129&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHFUZh129&layout=compact" height="150" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAHFUZh129" height="150" />
 </p>
 
